@@ -8,4 +8,4 @@ It's my full time work, from the core engine to the framework packages, the docs
 
 📫 [info@domternal.dev](mailto:info@domternal.dev)<br />
 🌐 [domternal.dev](https://domternal.dev)<br />
-💻 [github.com/domternal](https://github.com/domternal)
+💻 [github.com/domternal/domternal](https://github.com/domternal/domternal)
